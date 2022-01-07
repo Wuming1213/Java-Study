@@ -17,3 +17,10 @@ https://hutool.cn/docs
 
 https://github.com/coder-fang/thatblog
 https://github.com/asiL-tcefreP/blog/tree/ai
+
+https://juejin.cn/post/6926349072945283085
+https://segmentfault.com/a/1190000023939043
+https://xie.infoq.cn/article/6119a149d4704f27b191689e8
+https://zhuanlan.zhihu.com/p/432055767
+
+
